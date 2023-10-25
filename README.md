@@ -1,5 +1,5 @@
 # The Bastion
-Annand's primary GitHub repository; for all kinds of projects.
+More to come... someday.
 
 ## Contact
 - Email: [hi@annandvirk.com](mailto:hi@annandvirk.com)
